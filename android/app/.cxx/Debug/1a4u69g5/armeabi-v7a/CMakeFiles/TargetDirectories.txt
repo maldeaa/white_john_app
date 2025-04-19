@@ -1,0 +1,2 @@
+D:/Flutter/WhiteJohn/white_john_app/android/app/.cxx/Debug/1a4u69g5/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Flutter/WhiteJohn/white_john_app/android/app/.cxx/Debug/1a4u69g5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
